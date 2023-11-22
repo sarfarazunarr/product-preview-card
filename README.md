@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [See Solution Here](https://www.frontendmentor.io/solutions/product-preview-responsive-card-X08EpEldlm)
+- Live Site URL: [Click to see it on live ]((https://product-preview-card.sarfarazunar.repl.co/))
 
 ### Built with
 
@@ -47,5 +47,5 @@ By working on this small project i learned many things like using flex and worki
 ## Author
 
 - Website - [Sarfaraz Coding Club](https://www.sarfarazcodingclub.blogspot.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/sarfarazunarr)
+- Frontend Mentor - [@sarfarazunarr](https://www.frontendmentor.io/profile/sarfarazunarr)
 
