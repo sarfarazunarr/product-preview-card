@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [See Solution Here](https://www.frontendmentor.io/solutions/product-preview-responsive-card-X08EpEldlm)
-- Live Site URL: [Click to see it on live ]((https://product-preview-card.sarfarazunar.repl.co/))
+- Live Site URL: [Click to see it on live ](https://product-preview-card.sarfarazunar.repl.co/)
 
 ### Built with
 
